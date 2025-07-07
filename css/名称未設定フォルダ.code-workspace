@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../デモHP/名称未設定フォルダ"
+		},
+		{
+			"path": "../../../デモHP/docs"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "名称未設定フォルダ"
+	}
+}
